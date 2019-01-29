@@ -1,0 +1,54 @@
+
+
+
+h1{
+    font-size: 50px;
+    text-align: center;
+    color: white;
+    font-family: 'courier',monospace;
+    text-shadow: 2px 2px coral;
+}
+
+td {
+    
+    border: 70px solid coral;
+    background-color: coral;
+    height:60px;
+    width:60px;
+
+
+
+}
+
+
+  body{
+    background: url("/Users/sq/wdi-infinity/Projict1/flowers.png");
+    background-size: cover;
+    
+  }
+ 
+  #reset{
+      
+      font-size: 20px; 
+      background-color: chocolate; 
+      color: white; 
+      border-radius: 12px;
+
+  }
+  .Mybutton{
+    text-align: center;
+  }
+  swal.fire{
+color: blueviolet;
+
+  }
+ #moves{
+font-size: 50px;
+text-align: center;
+font-family: 'courier',monospace;
+color:white;
+
+  }
+
+  
+ 
