@@ -15,7 +15,7 @@ var turn = "X";
   gameBoard[event.target.id] = turn 
   winnerCheck(); //sxitch between turns and print value of turn 
  	if(turn === 'X'){ 
-  $('#moves').text('X Turn');
+  $('#moves').text('O Turn');
    turn='O';
    $(event.target).css('font-size','40px');
    $(event.target).css('color','white');
@@ -23,7 +23,7 @@ var turn = "X";
    $(event.target).off('click');//will not allow user to click again in the same cell after game is begin
 
   }else { 
-  $('#moves').text('O Turn');
+  $('#moves').text('X Turn');
    turn='X'
    $(event.target).css('font-size','40px');
    $(event.target).css('color','white');
