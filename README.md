@@ -1,4 +1,4 @@
-#Tic Tac Toe# </br>
+**#Tic Tac Toe**</br>
 ![alt text](myimage.png)
 Enjoy Playing This X and O Game.</br>
 
