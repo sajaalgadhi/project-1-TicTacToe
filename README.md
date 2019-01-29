@@ -1,8 +1,8 @@
-#**Tic Tac Toe**</br>
+#Tic Tac Toe </br>
 ![alt text](myimage.png)
 Enjoy Playing This X and O Game.</br>
 
-##**Technology:**</br>
+##Technology:</br>
 HTML.</br>
 CSS.</br>
 Jquiery.</br>
