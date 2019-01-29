@@ -48,12 +48,13 @@ color:white;
 
   }
 #start{    
-  font-size: 70px; 
+  font-size: 30px; 
   background-color: chocolate; 
   color: white; 
   border-radius: 12px;
 
 }
+
 .Welcome{
 
   text-align: center;
