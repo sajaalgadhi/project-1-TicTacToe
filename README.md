@@ -1,28 +1,28 @@
-Tic Tac Toe 
+**Tic Tac Toe**</br>
 ![alt text](myimage.png)
-Enjoy Playing This X and O Game.
+Enjoy Playing This X and O Game.</br>
 
-Technology:
-HTML.
-CSS.
-Jquiery.
+**Technology:**</br>
+HTML.</br>
+CSS.</br>
+Jquiery.</br>
 
-Features:
-I used an Clap audio  when either X or O win the Game.
-user can see whose turn is now .
+**Features:**</br>
+I used an Clap audio  when either X or O win the Game.</br>
+user can see whose turn is now .</br>
 
-Game logic:
-The first player will always start with X .
-There second Player will be O.
-There is a function to check if we have a winner, consists of all the probability to win.
-If there is a winner will shows an alert message with clapping .
-when the board is full and no one reach the win positions , alert will tell the players they got a tie game("Try Again).
+**Game logic:**</br>
+The first player will always start with X .</br>
+There second Player will be O.</br>
+There is a function to check if we have a winner, consists of all the probability to win.</br>
+If there is a winner will shows an alert message with clapping .</br>
+when the board is full and no one reach the win positions , alert will tell the players they got a tie game("Try Again).</br>
 
-Improvments:
-1.Online players.
-2.Add multiple levels.
+**Improvments:**</br>
+1.Online players.</br>
+2.Add multiple levels.</br>
 
-Credits:
-1.SweetAlert.
-2.W3Schools.
-3.stackoverflow.com
+**Credits:**</br>
+1.SweetAlert.</br>
+2.W3Schools.</br>
+3.stackoverflow.com</br>
