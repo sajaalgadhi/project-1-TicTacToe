@@ -1,6 +1,6 @@
 # **Tic Tac Toe**</br>
 ![alt text](myimage.png)
-Enjoy Playing This X and O Game.</br>
+# **Enjoy Playing This X and O Game.**</br>
 
 ## Technology:</br>
 HTML.</br>
@@ -23,6 +23,7 @@ when the board is full and no one reach the win positions , alert will tell the 
 2.Add multiple levels.</br>
 
 ## Credits:</br>
-1.SweetAlert.</br>
-2.W3Schools.</br>
-3.stackoverflow.com</br>
+1[SweetAlert.com](www.sweetalert.js.org)</br>
+2.[W3Schools.com](www.w3schools.com)</br>
+3.[stackoverflow.com](www.stackoverflow.com)</br>
+4.And special Thanks to my Instructors (Micheal , Usman and Moath).
