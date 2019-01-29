@@ -16,7 +16,7 @@ var turn = "X";
  	if(turn === 'X'){ 
   $('#moves').text('O Turn');//show the next turn
    turn='O';
-   $(event.target).css('font-size','40px');
+   $(event.target).css('font-size','70px');
    $(event.target).css('color','white');
    $(event.target).css('font-family','courier');
    $(event.target).off('click');//will not allow user to click again in the same cell after game is begin
@@ -24,7 +24,7 @@ var turn = "X";
   }else { 
   $('#moves').text('X Turn');//show the next turn
    turn='X'
-   $(event.target).css('font-size','40px');
+   $(event.target).css('font-size','70px');
    $(event.target).css('color','white');
    $(event.target).css('font-family','courier');
    $(event.target).off('click');
