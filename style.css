@@ -16,8 +16,6 @@ td {
     height:60px;
     width:60px;
 
-
-
 }
 
 
@@ -39,7 +37,7 @@ td {
     text-align: center;
   }
   swal.fire{
-color: blueviolet;
+  color: blueviolet;
 
   }
  #moves{
@@ -49,6 +47,21 @@ font-family: 'courier',monospace;
 color:white;
 
   }
+#start{    
+  font-size: 70px; 
+  background-color: chocolate; 
+  color: white; 
+  border-radius: 12px;
 
+}
+.Welcome{
+
+  text-align: center;
+  margin-top: 400px;
+}
   
- 
+
+.Welcome:active {
+
+  transform: translateY(4px);
+}
