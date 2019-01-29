@@ -1,5 +1,5 @@
 Tic Tac Toe 
-![alt text](http://url/to/img.png)
+![alt text](myimage.png)
 Enjoy Playing This X and O Game.
 
 Technology:
