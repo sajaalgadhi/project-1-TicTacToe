@@ -28,4 +28,4 @@ when the board is full and no one reach the win positions , alert will tell the 
 1.[SweetAlert.com](www.sweetalert.js.org)</br>
 2.[W3Schools.com](www.w3schools.com)</br>
 3.[stackoverflow.com](www.stackoverflow.com)</br>
-4.And special Thanks to my great Instructors [@Micheal](https://github.com/micfin),[@Usman](https://github.com/usmanbashir),[@moath](https://github.com/mfalthaw),[@badriah](https://github.com/badraih)
+4.And a special Thanks to my great Instructors [@Micheal](https://github.com/micfin),[@Usman](https://github.com/usmanbashir),[@moath](https://github.com/mfalthaw), and Dear friend [@badriah](https://github.com/badraih)
