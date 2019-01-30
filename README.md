@@ -1,6 +1,6 @@
 # **Tic Tac Toe**</br>
 ![alt text](myimage.png)
-# **Enjoy Playing This  Cute X and O Game  [TicTacToeLink](https://sajaalgadhi.github.io/project-1-TicTacToe/index2) **</br>
+# Enjoy Playing This  Cute X and O Game  [here](https://sajaalgadhi.github.io/project-1-TicTacToe/index2) </br>
 
 ## Technology:</br>
 HTML.</br>
