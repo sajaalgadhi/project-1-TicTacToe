@@ -7,6 +7,22 @@ h1{
     color: white;
     font-family: 'courier',monospace;
     text-shadow: 2px 2px coral;
+    margin:auto;
+}
+h2{
+  font-size: 30px;
+  color: white;
+  font-family: 'courier',monospace;
+  text-shadow: 2px 2px coral;
+
+}
+ul{
+  
+  font-size: 20px;
+  color: white;
+  font-family: 'courier',monospace;
+  /*background-color: bisque;
+  opacity: 0.9;*/
 }
 
 td {
@@ -22,6 +38,7 @@ td {
   body{
     background: url("/Users/sq/wdi-infinity/Projict1/flowers.png");
     background-size: cover;
+    background-repeat: no-repeat;
     
   }
  
@@ -35,6 +52,7 @@ td {
   }
   .Mybutton{
     text-align: center;
+  
   }
   swal.fire{
   color: blueviolet;
@@ -52,8 +70,9 @@ color:white;
   background-color: chocolate; 
   color: white; 
   border-radius: 12px;
-  margin-bottom: 70px;
- 
+  margin:auto;
+ align-content: center;
+ margin-top: 100px;
 
 }
 #start2{    
@@ -61,15 +80,15 @@ color:white;
   background-color: chocolate; 
   color: white; 
   border-radius: 12px;
-  margin-bottom: 70px;
- 
+  margin-top: 100px;
+
 
 }
 
 .Welcome{
 
   text-align: center;
-  margin-top: 300px;
+  margin-top: 250px;
 }
   
 
@@ -84,5 +103,6 @@ footer{
   color: white;
   font-family: 'courier',monospace;
   text-shadow: 2px 2px coral;
-  margin-top: 200px;
+  margin-top: 300px;
+
 }
