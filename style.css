@@ -36,7 +36,7 @@ td {
 
 
   body{
-    background: url("/Users/sq/wdi-infinity/Projict1/flowers.png");
+    background: url("flowers.png");
     background-size: cover;
     background-repeat: no-repeat;
     
